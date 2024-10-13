@@ -13,7 +13,7 @@ I am a software engineer passionate about creating innovative solutions and buil
 - **Others**: Nginx, OpenAI, Gemini
 
 ### 🌱 Currently Learning:
-- IA and Machine Learning
+- AI and Machine Learning
 - Flutter
 
 ### 📫 How to reach me:
