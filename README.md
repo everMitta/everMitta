@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a software engineer passionate about creating innovative solutions and building scalable applications. With expertise in full-stack development, cloud computing, microservices architecture, and containerized environments, I specialize in delivering efficient software for businesses in Peru and Toronto.
+I am a software engineer passionate about creating innovative solutions and building scalable applications. With expertise in full-stack development, cloud computing, microservices architecture, and containerized environments, I specialize in delivering efficient software for businesses in Peru and Canada.
 
 ### 🔧 Technologies & Tools:
 - **Backend**: Go, Python, PHP, Java, C/C++
