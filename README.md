@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ever Mitta 👋
 
-<!--
-**everMitta/everMitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am a software engineer passionate about creating innovative solutions and building scalable applications. With expertise in full-stack development, cloud computing, microservices architecture, and containerized environments, I specialize in delivering efficient software for businesses in Peru and Toronto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools:
+- **Backend**: Go, Python, PHP, Java, C/C++
+- **Frontend**: Angular
+- **Databases**: MySQL, PostgreSQL, SQL Server, Oracle, Elastic, MongoDB
+- **Cloud**: Google Cloud, AWS, Azure
+- **CI/CD**: Jenkins, Docker, Kubernetes
+- **Others**: Nginx, OpenAI, Gemini
+
+### 🌱 Currently Learning:
+- IA and Machine Learning
+- Flutter
+
+### 📫 How to reach me:
+- **Email**: ever.mitta@gmail.com
+- **LinkedIn**: [Ever Mitta Flores](https://www.linkedin.com/in/evermittaflores/)
+
+### 🎯 Fun Facts:
+- I'm always exploring the latest tech trends and am particularly interested in AI.
+- I’m a mix of manager and engineer — I love diving into code as much as I enjoy steering projects to succes.
